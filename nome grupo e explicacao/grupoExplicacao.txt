@@ -1,0 +1,3 @@
+Nomes: Gabriel Henrique, Gustavo Gontijo, Jonatas Morais e Vinicius Henrique
+
+Rodar a classe JantarDosFilosofos 
